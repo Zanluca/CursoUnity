@@ -1,7 +1,9 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoC-Sharp", "AprendendoC-Sharp.csproj", "{460960ED-076B-5F01-FF4B-8D276B779689}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{281F47AC-34CF-1FC5-954E-0E822251E11D}") = "AprendendoC-Sharp", "Assembly-CSharp.csproj", "{19D3888C-A51E-E89C-B561-5044D7A4CC82}"
+EndProject
+Project("{281F47AC-34CF-1FC5-954E-0E822251E11D}") = "AprendendoC-Sharp", "Assembly-CSharp-Editor.csproj", "{4D70E187-ACA9-93BA-F96A-0DD815ACA7E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +11,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{460960ED-076B-5F01-FF4B-8D276B779689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{460960ED-076B-5F01-FF4B-8D276B779689}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{460960ED-076B-5F01-FF4B-8D276B779689}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{460960ED-076B-5F01-FF4B-8D276B779689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D3888C-A51E-E89C-B561-5044D7A4CC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D3888C-A51E-E89C-B561-5044D7A4CC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D3888C-A51E-E89C-B561-5044D7A4CC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D3888C-A51E-E89C-B561-5044D7A4CC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D70E187-ACA9-93BA-F96A-0DD815ACA7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D70E187-ACA9-93BA-F96A-0DD815ACA7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D70E187-ACA9-93BA-F96A-0DD815ACA7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D70E187-ACA9-93BA-F96A-0DD815ACA7E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
