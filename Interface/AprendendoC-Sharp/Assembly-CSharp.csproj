@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\AspectosIniciais.cs" />
      <Compile Include="Assets\Scripts\ComandosCondicionais.cs" />
      <Compile Include="Assets\Scripts\ComandosCondicionais2.cs" />
+     <Compile Include="Assets\Scripts\ComandosCondicionais3.cs" />
      <Compile Include="Assets\Scripts\Variaveis.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
