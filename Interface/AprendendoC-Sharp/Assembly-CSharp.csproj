@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Arrays.cs" />
      <Compile Include="Assets\Scripts\AspectosIniciais.cs" />
      <Compile Include="Assets\Scripts\ComandosCondicionais.cs" />
      <Compile Include="Assets\Scripts\ComandosCondicionais2.cs" />
