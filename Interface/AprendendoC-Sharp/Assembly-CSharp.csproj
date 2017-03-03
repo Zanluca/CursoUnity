@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\ComandosCondicionais.cs" />
      <Compile Include="Assets\Scripts\ComandosCondicionais2.cs" />
      <Compile Include="Assets\Scripts\ComandosCondicionais3.cs" />
+     <Compile Include="Assets\Scripts\Corotina.cs" />
      <Compile Include="Assets\Scripts\Funcoes.cs" />
      <Compile Include="Assets\Scripts\Funcoes2.cs" />
      <Compile Include="Assets\Scripts\Loops.cs" />

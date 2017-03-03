@@ -1,10 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Funcoes2.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Corotina.cs">
     <Files>
       <File FileName="Assets\Scripts\Loops2.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Funcoes.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Funcoes2.cs" Line="22" Column="29" />
+      <File FileName="Assets\Scripts\Funcoes2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Corotina.cs" Line="31" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
